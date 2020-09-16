@@ -1,2 +1,3 @@
 # resume
-Resume/CV/Portfolio
+
+CV/Resume/Portfolio
